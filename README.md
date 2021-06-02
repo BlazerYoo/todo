@@ -1,2 +1,4 @@
 # todo
- Cross platform todo app built with Quasar Framework
+Cross platform todo app built with Quasar Framework
+
+Based on tutorial on [Quasar](https://quasar.dev/)
